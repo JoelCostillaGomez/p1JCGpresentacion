@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p1JCGpresentacion</string>
+    <string name="nombre">Joel Costilla Gomez</string>
+    <string name="grupo">7T11</string>
+    <string name="matricula">167010010</string>
+    <string name="materia">Desarrollo de aplicaciones para dispositivos moviles</string>
+    <string name="profesor">Victor Hugo De La O Martinez</string>
+</resources>
